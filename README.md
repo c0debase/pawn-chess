@@ -9,6 +9,9 @@ An html representation of pawns-only chess. Consider the following:
 4. Restrict the pawn's movement to normal chess pawn movement rules
 5. Restrict a pawn of the same side from moving twice
 
+<img src="./src/assets/pawned-chess.png" />
+<img src="./src/assets/pawn-chess.png" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
