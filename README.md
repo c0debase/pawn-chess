@@ -1,3 +1,14 @@
+Pawns-only chess.
+
+The person that gets the most pawn to the other side of the table wins!
+An html representation of pawns-only chess. Consider the following:
+
+1. Create an 8 x 8 black & white table in HTML/CSS
+2. Create the pawns on the table
+3. Be able to move a pawn by clicking on the pawn
+4. Restrict the pawn's movement to normal chess pawn movement rules
+5. Restrict a pawn of the same side from moving twice
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
